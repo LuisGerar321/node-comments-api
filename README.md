@@ -2,6 +2,10 @@
 
 This project is a backend application built with Node.js, Express, and Sequelize. It provides a basic REST API for a comments application, allowing users to create comments, reply to comments, delete comments, and list all comments. This code serves as an initial implementation with minimal features, and there are many opportunities for improvement.
 
+## Watch Full App Demo
+
+[App Demo](https://www.webmobilefirst.com/en/screencasts/hA5hMnvpBJ/)
+
 ## Prerequisites
 
 Ensure you have the following installed on your system:
