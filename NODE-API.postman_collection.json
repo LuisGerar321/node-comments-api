@@ -99,7 +99,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"comment\": \"Edit comment.\"\r\n}",
+					"raw": "{\r\n    \"body\": \"Edit comment.\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
